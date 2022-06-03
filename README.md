@@ -7,4 +7,4 @@ https://blog.jamiexu.cn
 # Contact
 E-mail: doxm@foxmail.com 
 
-You can send me a mail and I will try my best help you.
+You can send me a mail and I will try my best to help you.
